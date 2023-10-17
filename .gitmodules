@@ -1,0 +1,115 @@
+[submodule "core/angular"]
+	path = core/angular
+	url = https://github.com/angular/angular
+[submodule "core/astro"]
+	path = core/astro
+	url = https://github.com/withastro/astro
+[submodule "core/blitz.js"]
+	path = core/blitz.js
+	url = https://github.com/blitz-js/blitz
+[submodule "core/brunch"]
+	path = core/brunch
+	url = https://github.com/brunch/brunch
+[submodule "core/react"]
+	path = core/react
+	url = https://github.com/facebook/react
+[submodule "core/docusaurus"]
+	path = core/docusaurus
+	url = https://github.com/facebook/docusaurus
+[submodule "core/dojo"]
+	path = core/dojo
+	url = https://github.com/dojo/framework
+[submodule "core/eleventy"]
+	path = core/eleventy
+	url = https://github.com/11ty/eleventy
+[submodule "core/ember"]
+	path = core/ember
+	url = https://github.com/emberjs/ember.js
+[submodule "core/gatsby"]
+	path = core/gatsby
+	url = https://github.com/gatsbyjs/gatsby
+[submodule "core/gridsome"]
+	path = core/gridsome
+	url = https://github.com/gridsome/gridsome
+[submodule "core/hexo"]
+	path = core/hexo
+	url = https://github.com/hexojs/hexo
+[submodule "core/hugo"]
+	path = core/hugo
+	url = https://github.com/gohugoio/hugo
+[submodule "core/hydrogen-shofify"]
+	path = core/hydrogen-shofify
+	url = https://github.com/Shopify/hydrogen
+[submodule "core/hydrogen"]
+	path = core/hydrogen
+	url = https://github.com/hydrogen-music/hydrogen
+[submodule "core/ionic-angular"]
+	path = core/ionic-angular
+	url = https://github.com/ionic-team/ionic-framework
+[submodule "core/ionic-react"]
+	path = core/ionic-react
+	url = https://github.com/ionic-team/ionic-framework
+[submodule "core/jekyll"]
+	path = core/jekyll
+	url = https://github.com/jekyll/jekyll
+[submodule "core/middleman"]
+	path = core/middleman
+	url = https://github.com/middleman/middleman
+[submodule "core/nextjs"]
+	path = core/nextjs
+	url = https://github.com/vercel/next.js
+[submodule "core/nuxtjs"]
+	path = core/nuxtjs
+	url = https://github.com/nuxt/nuxt.js
+[submodule "core/parcel"]
+	path = core/parcel
+	url = https://github.com/parcel-bundler/parcel
+[submodule "core/polymer"]
+	path = core/polymer
+	url = https://github.com/Polymer/polymer
+[submodule "core/preact"]
+	path = core/preact
+	url = https://github.com/preactjs/preact
+[submodule "core/redwoodjs"]
+	path = core/redwoodjs
+	url = https://github.com/redwoodjs/redwood
+[submodule "core/remix"]
+	path = core/remix
+	url = https://github.com/remix-run/remix
+[submodule "core/saber"]
+	path = core/saber
+	url = https://github.com/saberland/saber
+[submodule "core/sanity"]
+	path = core/sanity
+	url = https://github.com/sanity-io/sanity
+[submodule "core/sapper"]
+	path = core/sapper
+	url = https://github.com/sveltejs/sapper
+[submodule "core/scully"]
+	path = core/scully
+	url = https://github.com/scullyio/scully
+[submodule "core/solidstart"]
+	path = core/solidstart
+	url = https://github.com/solidjs/solid-start
+[submodule "core/storybook"]
+	path = core/storybook
+	url = https://github.com/storybookjs/storybook
+[submodule "core/svelte"]
+	path = core/svelte
+	url = https://github.com/sveltejs/svelte
+[submodule "core/umijs"]
+	path = core/umijs
+	url = https://github.com/umijs/umi
+[submodule "core/zola"]
+	path = core/zola
+	url = https://github.com/getzola/zola
+[submodule "stencil"]
+	path = core/stencil
+	url = https://github.com/ionic-team/stencil
+[submodule "vite"]
+	path = core/vite
+	url = https://github.com/vitejs/vite
+
+[submodule "vue-next"]
+	path = core/vue
+	url = https://github.com/vuejs/vue-next
