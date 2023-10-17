@@ -80,21 +80,6 @@ We are constantly working on improving our software and adding new features. Her
 
 Join us on this exciting journey and let's build something amazing together! Together, we can redefine the frontend experience! 🎉🌐🚀
 
-
-/* # 🚀 DX-Frontend - Your Frontend Solution 🚀
-
-## 📌 Introduction
-
-Welcome to 'dx-frontend', an open-source project designed to address all your frontend challenges. Our mission is to simplify frontend development and make it more efficient and enjoyable. This project is a comprehensive solution for managing frontend tasks in an application, including creating user interfaces, managing state, handling events, and more.
-
-## 🎯 Features
-
-- **🔒 Secure**: Advanced security features to protect your application and user data.
-- **🚀 Efficient**: Optimized for performance to ensure a smooth user experience.
-- **🎨 Stylish**: Modern design principles and techniques for creating beautiful user interfaces.
-
-  */
-
 ## 🚀 Getting Started
 
 ### 📋 Prerequisites
