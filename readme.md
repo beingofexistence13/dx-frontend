@@ -115,3 +115,107 @@ If you have any questions or suggestions, feel free to open an issue or pull req
 ## 🎉 Acknowledgments
 
 We would like to thank all contributors and users for their support. Your feedback and contributions make this project possible!
+
+| Serial Number | Frontend Logic Framework Name |
+|---------------|-------------------------------|
+| 1             | React                         |
+| 2             | Angular                       |
+| 3             | Vue                           |
+| 4             | Next.js                       |
+| 5             | Svelte                        |
+| 6             | Preact                        |
+| 7             | Inferno                       |
+| 8             | Mithril                       |
+| 9             | Solid                         |
+| 10            | Riot                          |
+| 11            | Alpine.js                     |
+| 12            | Qwik                          |
+| 13            | Astro                         |
+| 14            | Vuetify                       |
+| 15            | Material UI                   |
+| 16            | Ant Design                    |
+| 17            | Chakra UI                     |
+| 18            | Tailwind CSS                  |
+| 19            | Bootstrap                     |
+| 20            | Foundation                    |
+| 21            | Bulma                         |
+| 22            | UIkit                         |
+| 23            | Onsen UI                      |
+| 24            | Ionic                         |
+| 25            | NativeScript                  |
+| 26            | Flutter                       |
+| 27            | React Native                  |
+| 28            | Vue Native                    |
+| 29            | NativeScript Vue              |
+| 30            | Quasar                        |
+| 31            | Capacitor                     |
+| 32            | Cordova                       |
+| 33            | React Springs                 |
+| 34            | Framer Motion                 |
+| 35            | Reanimated                    |
+| 36            | GSAP                          |
+| 37            | Velocity.js                   |
+| 38            | Anime.js                      |
+| 39            | React Router                  |
+| 40            | Vue Router                    |
+| 41            | Angular Router                |
+| 42            | React Redux                   |
+| 43            | Redux Toolkit                 |
+| 44            | Vuex                          |
+| 45            | NgRx Store                    |
+| 46            | MobX                          |
+| 47            | Recoil                        |
+| 48            | Zustand                       |
+| 49            | Effector                      |
+| 50            | Jotai                         |
+| 51            | Formik                        |
+| 52            | React Hook Form               |
+| 53            | FormKit                       |
+| 54            | Vue Form                      |
+| 55            | Angular Reactive Forms        |
+| 56            | yup                           |
+| 57            | vee-validate                  |
+| 58            | Angular Forms                 |
+| 59            | Axios                         |
+| 60            | Fetch                         |
+| 61            | Ky                            |
+| 62            | Superagent                    |
+| 63            | Fetch-intercept               |
+| 64            | SWR                           |
+| 65            | React Query                   |
+| 66            | Vue Query                     |
+| 67            | Pinia                         |
+| 68            | Vuex ORM                      |
+| 69            | NgRx Data                     |
+| 70            | Formily                       |
+| 71            | Ant Design Form               |
+| 72            | Chakra UI Form                |
+| 73            | Tailwind UI Form              |
+| 74            | BootstrapVue                  |
+| 75            | Material UI FormKit           |
+| 76            | Onsen UI Forms                |
+| 77            | Ionic Forms                   |
+| 78            | NativeScript Forms            |
+| 79            | Quasar Forms                  |
+| 80            | Capacitor Forms               |
+| 81            | Cordova Forms                 |
+| 82            | React-Table                   |
+| 83            | Ag-Grid                       |
+| 84            | Vuetify Data Table            |
+| 85            | Material UI Data Table        |
+| 86            | Ant Design Data Table         |
+| 87            | Chakra UI Data Table          |
+| 88            | Tailwind UI Data Table        |
+| 89            | BootstrapVue Data Table       |
+| 90            | Onsen UI Data Table           |
+| 91            | Ionic Data Table              |
+| 92            | NativeScript Data Table       |
+| 93            | Quasar Data Table             |
+| 94            | Capacitor Data Table          |
+| 95            | Cordova Data Table            |
+| 96            | React-Intl                    |
+| 97            | Vue-i18n                      |
+| 98            | Angular i18n                  |
+| 99            | Next.js i18n                  |
+| 100           | Remix i18n                    |
+
