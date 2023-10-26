@@ -3,7 +3,6 @@ tasks:
       init: |
           npm install -g npm@10.1.0
           npm install -g bun
-          bun install -g ng-cli
           bun install -g gatsby-cli
           git config lfs.https://github.com/beingofexistence/dx.git/info/lfs.locksverify false
           cd templates && bun install && bun run build
