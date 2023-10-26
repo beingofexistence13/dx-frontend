@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "author": {
+    "name": "beingofexistence",
+    "url": "https://www.youtube.com/channel/UCK0IEdLWxA2EFgucri7z4SA"
+  },
+  "scripts": {
+    "build": "bun run build:angular && bun run build:astro && bun run build:gatsby && bun run build:next && bun run build:nue && bun run build:nuxt && bun run build:svelte",
+    "build:angular": "cd angular && bun install && bun run build && cd ..",
+    "build:astro": "cd astro && bun install && bun run build && cd ..",
+    "build:gatsby": "cd gatsby && bun install && bun run build && cd ..",
+    "build:next": "cd next && bun install && bun run build && cd ..",
+    "build:nue": "cd nue && bun install && bun run compile && cd ..",
+    "build:nuxt": "cd nuxt && bun install && bun run build && cd ..",
+    "build:svelte": "cd svelte && bun install && bun run build && cd .."
+  }
+}
